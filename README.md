@@ -22,7 +22,7 @@
 * **转述和英语表达能力**
 * **扩展语料库**（虽然量很少）
 
-查看该玩法请移步至 [Issue](https://github.com/yujiangshui/A-Programmers-Guide-to-English-Practice/issues?q=is%3Aopen+is%3Aissue+label%3AMAS) 查看具体案例。
+查看该玩法请移步至 [Issue](https://github.com/yujiangshui/A-Programmers-Guide-to-English-Practice/issues?q=is%3Aissue+label%3AMAS+is%3Aclosed) 查看具体案例。
 
 首先你需要选择一个单词，然后推荐步骤如下：
 
